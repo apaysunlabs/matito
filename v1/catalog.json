@@ -1,7 +1,421 @@
 {
-  "version": 1,
-  "generatedAt": 1792800000000,
+  "version": 2,
+  "generatedAt": 1792886400000,
   "categories": [],
-  "drawings": [],
+  "drawings": [
+    {
+      "id": "animals/caterpillar",
+      "categoryId": "animals",
+      "titles": {
+        "it": "Bruco",
+        "en": "Caterpillar",
+        "fr": "Chenille",
+        "es": "Oruga",
+        "de": "Raupe"
+      },
+      "tags": {
+        "it": [
+          "bruco",
+          "foglia",
+          "insetto"
+        ],
+        "en": [
+          "caterpillar",
+          "leaf",
+          "bug"
+        ],
+        "fr": [
+          "chenille",
+          "feuille"
+        ],
+        "es": [
+          "oruga",
+          "hoja"
+        ],
+        "de": [
+          "raupe",
+          "blatt"
+        ]
+      },
+      "imageUrl": "https://apaysunlabs.github.io/matito/drawings/animals/caterpillar.svg",
+      "thumbnailUrl": "https://apaysunlabs.github.io/matito/drawings/animals/caterpillar.svg",
+      "popularity": 600,
+      "addedAt": 1815350400000,
+      "width": 800,
+      "height": 800
+    },
+    {
+      "id": "dinosaurs/dino_balloon",
+      "categoryId": "dinosaurs",
+      "titles": {
+        "it": "Dino con palloncino",
+        "en": "Dino with balloon",
+        "fr": "Dino au ballon",
+        "es": "Dino con globo",
+        "de": "Dino mit Ballon"
+      },
+      "tags": {
+        "it": [
+          "dinosauro",
+          "palloncino",
+          "festa"
+        ],
+        "en": [
+          "dinosaur",
+          "balloon",
+          "party"
+        ],
+        "fr": [
+          "dinosaure",
+          "ballon"
+        ],
+        "es": [
+          "dinosaurio",
+          "globo"
+        ],
+        "de": [
+          "dinosaurier",
+          "ballon"
+        ]
+      },
+      "imageUrl": "https://apaysunlabs.github.io/matito/drawings/dinosaurs/dino_balloon.svg",
+      "thumbnailUrl": "https://apaysunlabs.github.io/matito/drawings/dinosaurs/dino_balloon.svg",
+      "popularity": 600,
+      "addedAt": 1815350460000,
+      "width": 800,
+      "height": 800
+    },
+    {
+      "id": "princesses/crown_cushion",
+      "categoryId": "princesses",
+      "titles": {
+        "it": "Corona sul cuscino",
+        "en": "Crown on a cushion",
+        "fr": "Couronne sur coussin",
+        "es": "Corona en el cojín",
+        "de": "Krone auf Kissen"
+      },
+      "tags": {
+        "it": [
+          "corona",
+          "cuscino",
+          "regina"
+        ],
+        "en": [
+          "crown",
+          "cushion",
+          "queen"
+        ],
+        "fr": [
+          "couronne",
+          "coussin"
+        ],
+        "es": [
+          "corona",
+          "cojín"
+        ],
+        "de": [
+          "krone",
+          "kissen"
+        ]
+      },
+      "imageUrl": "https://apaysunlabs.github.io/matito/drawings/princesses/crown_cushion.svg",
+      "thumbnailUrl": "https://apaysunlabs.github.io/matito/drawings/princesses/crown_cushion.svg",
+      "popularity": 600,
+      "addedAt": 1815350520000,
+      "width": 800,
+      "height": 800
+    },
+    {
+      "id": "superheroes/super_penguin",
+      "categoryId": "superheroes",
+      "titles": {
+        "it": "Super pinguino",
+        "en": "Super penguin",
+        "fr": "Super pingouin",
+        "es": "Súper pingüino",
+        "de": "Super-Pinguin"
+      },
+      "tags": {
+        "it": [
+          "pinguino",
+          "eroe",
+          "mantello"
+        ],
+        "en": [
+          "penguin",
+          "hero",
+          "cape"
+        ],
+        "fr": [
+          "pingouin",
+          "héros"
+        ],
+        "es": [
+          "pingüino",
+          "héroe"
+        ],
+        "de": [
+          "pinguin",
+          "held"
+        ]
+      },
+      "imageUrl": "https://apaysunlabs.github.io/matito/drawings/superheroes/super_penguin.svg",
+      "thumbnailUrl": "https://apaysunlabs.github.io/matito/drawings/superheroes/super_penguin.svg",
+      "popularity": 600,
+      "addedAt": 1815350580000,
+      "width": 800,
+      "height": 800
+    },
+    {
+      "id": "vehicles/double_decker",
+      "categoryId": "vehicles",
+      "titles": {
+        "it": "Autobus a due piani",
+        "en": "Double-decker bus",
+        "fr": "Bus à impériale",
+        "es": "Autobús de dos pisos",
+        "de": "Doppeldeckerbus"
+      },
+      "tags": {
+        "it": [
+          "autobus",
+          "bus",
+          "città"
+        ],
+        "en": [
+          "bus",
+          "double decker",
+          "city"
+        ],
+        "fr": [
+          "bus",
+          "ville"
+        ],
+        "es": [
+          "autobús",
+          "ciudad"
+        ],
+        "de": [
+          "bus",
+          "stadt"
+        ]
+      },
+      "imageUrl": "https://apaysunlabs.github.io/matito/drawings/vehicles/double_decker.svg",
+      "thumbnailUrl": "https://apaysunlabs.github.io/matito/drawings/vehicles/double_decker.svg",
+      "popularity": 600,
+      "addedAt": 1815350640000,
+      "width": 800,
+      "height": 800
+    },
+    {
+      "id": "christmas/santa_sack",
+      "categoryId": "christmas",
+      "titles": {
+        "it": "Sacco di Babbo Natale",
+        "en": "Santa's sack",
+        "fr": "Hotte du Père Noël",
+        "es": "Saco de Papá Noel",
+        "de": "Sack vom Weihnachtsmann"
+      },
+      "tags": {
+        "it": [
+          "sacco",
+          "regali",
+          "babbo natale"
+        ],
+        "en": [
+          "sack",
+          "gifts",
+          "santa"
+        ],
+        "fr": [
+          "hotte",
+          "cadeaux"
+        ],
+        "es": [
+          "saco",
+          "regalos"
+        ],
+        "de": [
+          "sack",
+          "geschenke"
+        ]
+      },
+      "imageUrl": "https://apaysunlabs.github.io/matito/drawings/christmas/santa_sack.svg",
+      "thumbnailUrl": "https://apaysunlabs.github.io/matito/drawings/christmas/santa_sack.svg",
+      "popularity": 600,
+      "addedAt": 1815350700000,
+      "width": 800,
+      "height": 800
+    },
+    {
+      "id": "easter/egg_balloon",
+      "categoryId": "easter",
+      "titles": {
+        "it": "Mongolfiera a uovo",
+        "en": "Egg hot-air balloon",
+        "fr": "Montgolfière œuf",
+        "es": "Globo huevo",
+        "de": "Eier-Heißluftballon"
+      },
+      "tags": {
+        "it": [
+          "mongolfiera",
+          "uovo",
+          "coniglietto"
+        ],
+        "en": [
+          "balloon",
+          "egg",
+          "bunny"
+        ],
+        "fr": [
+          "montgolfière",
+          "œuf",
+          "lapin"
+        ],
+        "es": [
+          "globo",
+          "huevo",
+          "conejo"
+        ],
+        "de": [
+          "ballon",
+          "ei",
+          "hase"
+        ]
+      },
+      "imageUrl": "https://apaysunlabs.github.io/matito/drawings/easter/egg_balloon.svg",
+      "thumbnailUrl": "https://apaysunlabs.github.io/matito/drawings/easter/egg_balloon.svg",
+      "popularity": 600,
+      "addedAt": 1815350760000,
+      "width": 800,
+      "height": 800
+    },
+    {
+      "id": "halloween/spider_swing",
+      "categoryId": "halloween",
+      "titles": {
+        "it": "Ragnetto dondolante",
+        "en": "Swinging spider",
+        "fr": "Petite araignée",
+        "es": "Arañita colgante",
+        "de": "Baumelnde Spinne"
+      },
+      "tags": {
+        "it": [
+          "ragno",
+          "ragnatela",
+          "luna"
+        ],
+        "en": [
+          "spider",
+          "web",
+          "moon"
+        ],
+        "fr": [
+          "araignée",
+          "toile"
+        ],
+        "es": [
+          "araña",
+          "telaraña"
+        ],
+        "de": [
+          "spinne",
+          "netz"
+        ]
+      },
+      "imageUrl": "https://apaysunlabs.github.io/matito/drawings/halloween/spider_swing.svg",
+      "thumbnailUrl": "https://apaysunlabs.github.io/matito/drawings/halloween/spider_swing.svg",
+      "popularity": 600,
+      "addedAt": 1815350820000,
+      "width": 800,
+      "height": 800
+    },
+    {
+      "id": "school/easel",
+      "categoryId": "school",
+      "titles": {
+        "it": "Cavalletto da pittura",
+        "en": "Painting easel",
+        "fr": "Chevalet de peinture",
+        "es": "Caballete de pintura",
+        "de": "Staffelei"
+      },
+      "tags": {
+        "it": [
+          "cavalletto",
+          "pittura",
+          "pennelli"
+        ],
+        "en": [
+          "easel",
+          "painting",
+          "brushes"
+        ],
+        "fr": [
+          "chevalet",
+          "peinture"
+        ],
+        "es": [
+          "caballete",
+          "pintura"
+        ],
+        "de": [
+          "staffelei",
+          "malen"
+        ]
+      },
+      "imageUrl": "https://apaysunlabs.github.io/matito/drawings/school/easel.svg",
+      "thumbnailUrl": "https://apaysunlabs.github.io/matito/drawings/school/easel.svg",
+      "popularity": 600,
+      "addedAt": 1815350880000,
+      "width": 800,
+      "height": 800
+    },
+    {
+      "id": "fantasy/flying_whale",
+      "categoryId": "fantasy",
+      "titles": {
+        "it": "Balena volante",
+        "en": "Flying whale",
+        "fr": "Baleine volante",
+        "es": "Ballena voladora",
+        "de": "Fliegender Wal"
+      },
+      "tags": {
+        "it": [
+          "balena",
+          "ali",
+          "nuvole"
+        ],
+        "en": [
+          "whale",
+          "wings",
+          "clouds"
+        ],
+        "fr": [
+          "baleine",
+          "ailes"
+        ],
+        "es": [
+          "ballena",
+          "alas"
+        ],
+        "de": [
+          "wal",
+          "flügel"
+        ]
+      },
+      "imageUrl": "https://apaysunlabs.github.io/matito/drawings/fantasy/flying_whale.svg",
+      "thumbnailUrl": "https://apaysunlabs.github.io/matito/drawings/fantasy/flying_whale.svg",
+      "popularity": 600,
+      "addedAt": 1815350940000,
+      "width": 800,
+      "height": 800
+    }
+  ],
   "deleted": []
 }
