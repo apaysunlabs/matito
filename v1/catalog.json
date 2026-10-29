@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "generatedAt": 1792886400000,
   "categories": [],
   "drawings": [
@@ -91,7 +91,7 @@
       "titles": {
         "it": "Corona sul cuscino",
         "en": "Crown on a cushion",
-        "fr": "Couronne sur coussin",
+        "fr": "Couronne sur un coussin",
         "es": "Corona en el cojín",
         "de": "Krone auf Kissen"
       },
@@ -299,7 +299,7 @@
       "titles": {
         "it": "Ragnetto dondolante",
         "en": "Swinging spider",
-        "fr": "Petite araignée",
+        "fr": "Araignée qui se balance",
         "es": "Arañita colgante",
         "de": "Baumelnde Spinne"
       },
